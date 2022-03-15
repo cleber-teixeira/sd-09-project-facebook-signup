@@ -9,10 +9,11 @@
 
 - **Bloco 06 -** HTML e CSS: Forms, Flexbox e Responsivo
 
-<p align="center">
+<div align="center">
   <img src="./imgs/project-print-1.png" alt="Tela facebook" width="500">
   <img src="./imgs/project-print-2.png" alt="Tela facebook 2" width="500">
-</p>
+  <p><a href="https://cleber-teixeira.github.io/projetos/facebook-signup/">Link para o projeto <b>Facebook Signup</b></a></p>
+</div>
 
 ---
 ### Contexto :pencil:
